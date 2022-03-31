@@ -1,0 +1,27 @@
+body {
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+.icecream {
+    display: flex;
+}
+
+.icecream__img {
+    width: 580px;
+}
+
+.icecream__text {
+
+}
+
+.icecream__block {
+}
+
+.icecream__buy {
+    background-color: #D64374;
+    color: aliceblue;
+    border-color: #D64374;
+    border-radius: 5px;
+    width: 46px;
+    height: 15px;
+}
